@@ -3,7 +3,7 @@ import "./root.component.css";
 export default function Root(props) {
   return (
     <div className="container1">
-      <p>Page 1 App</p>
+      <p>Revamped Page 1 App</p>
     </div>
   );
 }
